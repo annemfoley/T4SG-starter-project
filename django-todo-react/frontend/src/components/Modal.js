@@ -68,6 +68,8 @@ export default class CustomModal extends Component {
                 Completed
               </Label>
             </FormGroup>
+            <div></div>
+            <h5>Labels:</h5>
             <FormGroup check>
               <Label for="time_sensitive">
                 <Input
